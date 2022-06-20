@@ -1,5 +1,7 @@
 # simple-counter-component
-This project is a part of a blog on "How to create and publish a react component library (not the storybook way)"
+This project is a part of a blog on ["How to create and publish a react component library (not the storybook way)"](https://dev.to/sidmohanty11/how-to-create-and-publish-a-react-component-library-not-the-storybook-way-3b07)
+
+Project can be found on npmjs [here](https://www.npmjs.com/package/simple-counter-component).
 
 ## Usage
 ```
