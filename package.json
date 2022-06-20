@@ -1,9 +1,12 @@
 {
   "name": "simple-counter-component",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Simple react counter component",
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
+  "files": [
+    "dist"
+  ],
   "scripts": {
     "prebuild": "rimraf dist",
     "build": "rollup -c",
