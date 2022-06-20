@@ -1,10 +1,10 @@
 import React from "react";
 import { render } from "@testing-library/react";
 
-import { SimpleReactComponent } from "./index";
+import { SimpleCounterComponent } from "./index";
 
-describe("SimpleReactComponent Component", () => {
-  test("renders the SimpleReactComponent component", () => {
-    render(<SimpleReactComponent />);
+describe("SimpleCounterComponent Component", () => {
+  test("renders the SimpleCounterComponent component", () => {
+    render(<SimpleCounterComponent />);
   });
 });
