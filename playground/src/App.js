@@ -1,10 +1,10 @@
-import { SimpleReactComponent } from "simple-counter-component";
+import { SimpleCounterComponent } from "simple-counter-component";
 import "./App.css";
 
 function App() {
   return (
     <div className="App">
-      <SimpleReactComponent />
+      <SimpleCounterComponent />
     </div>
   );
 }
