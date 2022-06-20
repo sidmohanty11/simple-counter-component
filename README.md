@@ -1,6 +1,11 @@
 # simple-counter-component
 This project is a part of a blog on "How to create and publish a react component library (not the storybook way)"
 
+## Usage
+```
+npm i simple-counter-component
+```
+
 ## Development
 ```
 npm install
